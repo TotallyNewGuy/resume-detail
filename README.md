@@ -1,5 +1,5 @@
 # resume-detail
-# Work project
+# Work projects
 
 [Work project 1 - fullstack (current)](https://github.com/TotallyNewGuy/work-project-diagram)  
 [Work project 2 - cloud (last summer)](https://github.com/TotallyNewGuy/work-project-diagram)  
