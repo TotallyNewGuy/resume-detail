@@ -1,8 +1,11 @@
-# Resume-detail
-# All projects
+# Resume-detail  
 
-## [Internship project 1 - Fullstack (current)](https://github.com/TotallyNewGuy/work-project-diagram)  
-## [Internship project 2 - Cloud (last summer)](https://github.com/TotallyNewGuy/work-project-diagram)  
+# Internship projects
 
-## [Individual project 1 - Backend & Cloud](https://github.com/TotallyNewGuy/bookstore)  
-## [Individual project 2 - Infrastructure](https://github.com/TotallyNewGuy/courseregistration)
+## [The Commons XR :: Software Engineer Intern :: Full Stack :: current](https://github.com/TotallyNewGuy/work-project-diagram)  
+## [Sleep Number :: Software Engineer Intern :: Cloud :: last summer](https://github.com/TotallyNewGuy/work-project-diagram)  
+
+# Indivdual projects
+
+## [Book Rental System :: Backend & Cloud](https://github.com/TotallyNewGuy/bookstore)  
+## [Course Registration System :: Infrastructure](https://github.com/TotallyNewGuy/courseregistration)
