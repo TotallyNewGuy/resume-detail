@@ -7,5 +7,5 @@
 
 # Indivdual projects
 
-## [Book Rental System :: backend & cloud](https://github.com/TotallyNewGuy/bookstore)  
-## [Course Registration System :: infrastructure](https://github.com/TotallyNewGuy/courseregistration)
+## [Book Rental System :: microservice & cloud](https://github.com/TotallyNewGuy/bookstore)  
+## [Course Registration System :: distributed system](https://github.com/TotallyNewGuy/courseregistration)
