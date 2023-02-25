@@ -2,8 +2,8 @@
 
 # Internship projects
 
-## [The Commons XR :: Software Engineer Intern :: full stack](https://github.com/TotallyNewGuy/work-project-diagram)  
-## [Sleep Number :: Software Engineer Intern :: cloud](https://github.com/TotallyNewGuy/work-project-diagram)  
+## [The Commons XR :: Software Engineer Intern :: full stack](https://github.com/TotallyNewGuy/tcxr-intern-project)  
+## [Sleep Number :: Software Engineer Intern :: cloud](https://github.com/TotallyNewGuy/sn-intern-project)  
 
 # Indivdual projects
 
